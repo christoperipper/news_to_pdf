@@ -4,6 +4,6 @@ pdf = FPDF()
 
 pdf.add_page()
 
-pdf.output("First_PDF.pdf")
+pdf.output("./First_PDF.pdf", 'F')
 
 

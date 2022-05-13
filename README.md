@@ -6,7 +6,7 @@ Downloads latests news from ZDnet into a PDF document
 [] Grab 5 articles from website 
 [] Create PDF out of 5 articles
 [] Give appropriate name to PDF 
-[] Store created PDF in desired directory
+[X] Store created PDF in desired directory
 
 ## Libraries used
 
